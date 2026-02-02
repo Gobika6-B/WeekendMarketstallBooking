@@ -18,7 +18,6 @@ public class MarketService {
     private StallBookingDAO stallDAO = new StallBookingDAO();
     private SalesSummaryDAO summaryDAO = new SalesSummaryDAO();
 
-    // 1️⃣ View Booking Details
     public StallBooking viewBookingDetails(String bookingID) throws ValidationException {
         if (bookingID == null || bookingID.trim().isEmpty()) {
             throw new ValidationException("Booking ID is mandatory");
@@ -260,4 +259,5 @@ public class MarketService {
         return summaryDAO.findSalesSummariesByProductCategory(productCategory);
     }
 }
+
 
