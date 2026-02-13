@@ -4,4 +4,4 @@ This project provides core functionalities such as viewing available stalls, sel
 
 The application improves transparency, organization, and ease of use for both stall owners and market administrators, allowing them to handle reservations, schedules, and event participation with greater accuracy and convenience.
 
-<img width="1918" height="1072" alt="billing sys " src="https://github.com/user-attachments/assets/5d1cb7c6-4dde-442d-8211-d31a997a5106" />
+<img width="1918" height="1022" alt="weekend mar 01 " src="https://github.com/user-attachments/assets/b1acab51-353b-4dc4-a458-7a296068ef26" />
